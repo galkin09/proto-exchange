@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package exchange;
 
-option go_package = "github.com/galkin09/proto-exchange";
+option go_package = "github.com/galkin09/proto-exchange/exchange";
 
 // Определение сервиса
 service ExchangeService {

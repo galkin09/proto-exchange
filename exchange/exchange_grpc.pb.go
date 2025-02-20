@@ -4,7 +4,7 @@
 // - protoc             v4.25.6
 // source: exchange.proto
 
-package proto_exchange
+package exchange
 
 import (
 	context "context"
