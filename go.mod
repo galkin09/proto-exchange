@@ -1,4 +1,4 @@
-module proto-exchange
+module github.com/galkin09/proto-exchange
 
 go 1.23.4
 
